@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.98 24.877">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #8ed6fb;
+      }
+
+      .cls-3 {
+        fill: #1c78c0;
+      }
+    </style>
+  </defs>
+  <g id="webpack" transform="translate(0 -20.383)">
+    <path id="Path_68" data-name="Path 68" class="cls-1" d="M0,86.923v0Z" transform="translate(0 -46.868)"/>
+    <path id="Path_69" data-name="Path 69" class="cls-2" d="M37.289,39.553,27.21,45.261V40.822l6.282-3.459Zm.69-.622V27l-3.686,2.128V36.8Zm-21.736.622,10.079,5.7V40.817L20.04,37.362l-3.8,2.19Zm-.69-.622V27l3.686,2.128V36.8L15.553,38.93Zm.429-12.7,10.34-5.848v4.294L19.7,28.32l-.053.029-3.662-2.118Zm21.562,0L27.21,20.383v4.294l6.62,3.648.053.029,3.662-2.123Z" transform="translate(-14 0)"/>
+    <path id="Path_70" data-name="Path 70" class="cls-3" d="M67.539,85.416,61.343,82v-6.75l6.2,3.575v6.586Zm.888,0,6.2-3.406V75.255l-6.2,3.575ZM61.758,74.473l6.224-3.421L74.2,74.473l-6.219,3.59-6.224-3.59Z" transform="translate(-55.216 -45.607)"/>
+  </g>
+</svg>

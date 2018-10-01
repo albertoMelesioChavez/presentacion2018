@@ -1,0 +1,16 @@
+<svg id="vue" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.886 24.915">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #41b883;
+      }
+
+      .cls-2 {
+        fill: #35495e;
+      }
+    </style>
+  </defs>
+  <path id="Path_19" data-name="Path 19" class="cls-1" d="M23.109,0h5.777L14.443,24.915,0,0H11.049l3.394,5.777L17.765,0Z"/>
+  <path id="Path_20" data-name="Path 20" class="cls-1" d="M0,0,14.443,24.915,28.886,0H23.109L14.443,14.949,5.705,0Z"/>
+  <path id="Path_21" data-name="Path 21" class="cls-2" d="M50.56,0,59.3,15.021,67.964,0H62.62L59.3,5.777,55.9,0Z" transform="translate(-44.855)"/>
+</svg>
